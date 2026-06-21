@@ -1,5 +1,7 @@
 # Playwright TypeScript API Tests
 
+[![Playwright API Tests](https://github.com/piotrapl/playwright-typescript-api-tests/actions/workflows/playwright-api-tests.yml/badge.svg)](https://github.com/piotrapl/playwright-typescript-api-tests/actions/workflows/playwright-api-tests.yml)
+
 This repository contains a layered Playwright API test suite implemented in TypeScript.
 
 ## Project Structure
