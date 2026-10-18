@@ -2,7 +2,7 @@ import { test as baseTest } from '@playwright/test';
 import { ApiClient } from '../utils/ApiClient';
 
 // to jest plik konfiguracyjny dla testów API,
-// definiuje rozszerzenie testów Playwright o klienta API.
+// definiuje on rozszerzenie testów Playwright o klienta API.
 type ApiFixtures = {
   apiClient: ApiClient;
 };
